@@ -1,0 +1,43 @@
+.listcontainer {
+    margin: auto;
+    width: 50%;
+    padding: 0px;
+}
+
+.bottomBar {
+    border: 1px solid grey;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+li {
+    border: 1px solid black;
+    height: 53px;
+    width: 100%;
+    
+}
+
+.barbutt {
+    width: 73px;
+    height: 27px;
+    font-size: 11px;
+    background: transparent;
+    border-color: rgb(202, 107, 158);
+    color: darkgray;
+}
+
+span {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 12px;
+    position: relative;
+    top: 6px;
+    left: 20px;
+    color: darkgray;
+}
